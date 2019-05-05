@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minHeight="0dp"
+    android:background="#000000"
+    android:orientation="horizontal">
+    <Button
+        android:id="@+id/one"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:background="#FF0000"
+        android:layout_marginLeft="3dp"
+        android:textColor="#000000"
+        android:text="Red" />
+
+    <Button
+        android:id="@+id/two"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="145dp"
+        android:background="#EE9A00"
+        android:textColor="#000000"
+        android:text="orange" />
+
+    <Button
+        android:id="@+id/three"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="302dp"
+        android:background="#FFF000"
+        android:textColor="#000000"
+        android:text="yellow" />
+
+    <Button
+        android:id="@+id/four"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="70dp"
+        android:layout_marginTop="100dp"
+        android:background="#7FFF00"
+        android:textColor="#000000"
+        android:text="green" />
+
+    <Button
+        android:id="@+id/five"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="158dp"
+        android:layout_marginTop="100dp"
+        android:background="#0000EE"
+        android:textColor="#000000"
+        android:text="blue" />
+
+    <Button
+        android:id="@+id/six"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="246dp"
+        android:layout_marginTop="100dp"
+        android:background="#4B0082"
+        android:textColor="#000000"
+        android:text="indigo" />
+
+    <Button
+        android:id="@+id/seven"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="200dp"
+        android:background="#DDA0DD"
+        android:textColor="#000000"
+        android:text="violef" />
+</RelativeLayout>
