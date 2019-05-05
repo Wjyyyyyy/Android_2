@@ -8,8 +8,7 @@
 1.线性布局
 
 
-图片入下：
-![Image text]（https://github.com/Wjyyyyyy/Image/blob/master/1.png）
+![](https://github.com/Wjyyyyyy/Image/blob/master/1.png)
 
 
 
@@ -142,12 +141,7 @@
 ```
 2.实现布局界面
 
-
-
-
-截图如下：
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190318193731316.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1NhbW11cmFtYXQ=,size_16,color_FFFFFF,t_70)
-
+![](https://github.com/Wjyyyyyy/Image/blob/master/2.png)
 
 
 
@@ -233,11 +227,7 @@ android:layout_width="match_parent"
 ```
 3.表格布局
 
-
-
-截图如下：
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190318193951842.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1NhbW11cmFtYXQ=,size_16,color_FFFFFF,t_70)
-
+![](https://github.com/Wjyyyyyy/Image/blob/master/3.png)
 
 
 
